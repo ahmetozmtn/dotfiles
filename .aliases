@@ -1,0 +1,27 @@
+# Example aliases
+
+## LSD ##
+
+alias ls='lsd'
+alias l='ls -l'
+alias la='ls -a'
+alias lla='ls -la'
+alias lt='ls --tree'
+
+## ZSH ##
+
+alias zshconfig="code ~/.zshrc"
+alias ohmyzsh="nautilus ~/.oh-my-zsh"
+
+## APT ##
+
+alias sa='sudo apt'
+alias sai='sudo apt install'
+
+## SUDO ##
+
+alias s='sudo'
+
+
+
+
